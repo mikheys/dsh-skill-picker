@@ -1,0 +1,282 @@
+{
+  "verify-result": {
+    "category": "Мои режимы",
+    "title": "Проверка результата",
+    "description": "Доказать, что результат работает: запустить, протестировать, отрендерить, снять скриншот и честно сказать, что проверено, а что нет."
+  },
+  "adversarial-review": {
+    "category": "Мои режимы",
+    "title": "Злое само-ревью",
+    "description": "Перечитать свою работу как враждебный ревьюер: несостыковки, крайние случаи, забытые куски, лишние изменения."
+  },
+  "delegate-work": {
+    "category": "Мои режимы",
+    "title": "Делегирование агентам",
+    "description": "Разбить задачу на части, написать субагентам самодостаточные брифы и перепроверить их результат вместо доверия отчёту."
+  },
+  "detail-audit": {
+    "category": "Мои режимы",
+    "title": "Аудит деталей интерфейса",
+    "description": "Придирчивый просмотр UI: выравнивание, отступы, состояния, контраст, переносы текста, адаптивность и доступность."
+  },
+  "strata-local": {
+    "category": "Мои режимы",
+    "title": "Локальная STRATA",
+    "description": "Управление локальным сервером STRATA: состояние, запуск, остановка, параметры сэмплинга и переключение модели."
+  },
+  "make-interfaces-feel-better": {
+    "category": "Веб и дизайн",
+    "title": "Интерфейс, который ощущается лучше",
+    "description": "Правила дизайн-инженерии: анимации, ховеры, тени, границы, типографика и микровзаимодействия, чтобы UI выглядел аккуратно."
+  },
+  "context7-mcp": {
+    "category": "Веб и дизайн",
+    "title": "Свежая документация библиотек",
+    "description": "Достать актуальную документацию и примеры по библиотекам и фреймворкам (React, Vue, Prisma и т.п.) перед написанием кода."
+  },
+  "find-skills": {
+    "category": "Веб и дизайн",
+    "title": "Поиск и установка навыков",
+    "description": "Найти подходящий навык под задачу или установить новый, если готового нет."
+  },
+  "image": {
+    "category": "Картинки и видео",
+    "title": "Промпты для картинок",
+    "description": "Готовые промпты для Nano Banana и GPT Image 2 с подбором модели, качества, размера и композиции."
+  },
+  "video": {
+    "category": "Картинки и видео",
+    "title": "Промпты для видео",
+    "description": "Съёмка сцен для Seedance, Kling, Veo, Runway, Sora: раскадровка, камера, движение, тайминг и звук."
+  },
+  "cyberai-seedance-director": {
+    "category": "Картинки и видео",
+    "title": "Режиссура Seedance",
+    "description": "Режиссёрские промпты для Seedance 2.5/2.0 от Cyber AI: событие, блокинг, роли референсов и непрерывность."
+  },
+  "minimax-h3-comfyui": {
+    "category": "Картинки и видео",
+    "title": "MiniMax H3 в ComfyUI",
+    "description": "Сборка и отладка воркфлоу MiniMax H3 в ComfyUI: T2VA, I2VA, Ref2VA, референсы и промпты."
+  },
+  "fortiche-style-prompts": {
+    "category": "Картинки и видео",
+    "title": "Стиль Fortiche (Arcane)",
+    "description": "Промпты в стиле Arcane: рисованные текстуры, жёсткая светотень, 2D-фоны и характерная анимация."
+  },
+  "mielgo-style-prompts": {
+    "category": "Картинки и видео",
+    "title": "Стиль Alberto Mielgo",
+    "description": "Живописные промпты с крупными плоскостями и кинематографичным ракурсом на изображения и видео."
+  },
+  "office": {
+    "category": "Документы и Office",
+    "title": "Office: точка входа",
+    "description": "Создание, правка и конвертация документов, таблиц, презентаций и PDF — выбирает нужный инструмент и навык."
+  },
+  "office-docx": {
+    "category": "Документы и Office",
+    "title": "Word (.docx)",
+    "description": "Создание, чтение, правка и проверка документов Word, включая стили и оглавление."
+  },
+  "office-xlsx": {
+    "category": "Документы и Office",
+    "title": "Excel (.xlsx)",
+    "description": "Таблицы: данные, формулы, форматирование и валидация книг Excel."
+  },
+  "office-pptx": {
+    "category": "Документы и Office",
+    "title": "PowerPoint (.pptx)",
+    "description": "Презентации: макеты, слайды, графики и проверка результата."
+  },
+  "office-export-pdf": {
+    "category": "Документы и Office",
+    "title": "Экспорт в PDF",
+    "description": "Аккуратная конвертация Office-документов в PDF через LibreOffice."
+  },
+  "office-recalculate": {
+    "category": "Документы и Office",
+    "title": "Пересчёт таблиц",
+    "description": "Обновить кэш формул и проверить рассчитанные значения в таблице."
+  },
+  "office-render": {
+    "category": "Документы и Office",
+    "title": "Рендер документа",
+    "description": "Отрендерить документ в картинку и глазами проверить вёрстку, переносы и размещение элементов."
+  },
+  "convert-documents-to-markdown": {
+    "category": "Документы и Office",
+    "title": "Документы → Markdown",
+    "description": "Прочитать Word, PowerPoint, Excel, PDF или EPUB, переведя их в Markdown для работы агента."
+  },
+  "blender-core": {
+    "category": "Blender и 3D",
+    "title": "Blender: база",
+    "description": "Входная точка для любых задач Blender 5.2: запуск bpy через MCP или headless, контексты, проверка результата."
+  },
+  "blender-sculpting": {
+    "category": "Blender и 3D",
+    "title": "Скульптинг",
+    "description": "Лепка органики от базы к деталям: voxel remesh, dyntopo, multires, маски и face sets."
+  },
+  "blender-retopology-uv": {
+    "category": "Blender и 3D",
+    "title": "Ретопология и UV",
+    "description": "Превратить скульпт в игровой меш, развернуть UV, задать texel density и упаковать без швов."
+  },
+  "blender-hardsurface-modeling": {
+    "category": "Blender и 3D",
+    "title": "Hard-surface моделирование",
+    "description": "Оружие, техника, архитектура: блокаут-в-детали, модификаторы, Boolean, фаски и шейдинг."
+  },
+  "blender-pbr-materials": {
+    "category": "Blender и 3D",
+    "title": "PBR-материалы",
+    "description": "Физически корректные материалы: металл/шероховатость, Principled BSDF, цветовые пространства и текстуры."
+  },
+  "blender-texturing": {
+    "category": "Blender и 3D",
+    "title": "Текстурирование",
+    "description": "Износ, грязь, ржавчина, декали и trim-sheets: слои материалов и ручная роспись."
+  },
+  "blender-texture-baking": {
+    "category": "Blender и 3D",
+    "title": "Запекание текстур",
+    "description": "Запечь normal/AO/curvature/ID с high-poly на игровой меш, упаковать ORM и убрать швы."
+  },
+  "blender-geometry-nodes": {
+    "category": "Blender и 3D",
+    "title": "Geometry Nodes",
+    "description": "Процедурные ассеты: поля, атрибуты, инстансинг, зоны симуляции и повторения, сборка нод из JSON."
+  },
+  "blender-animation": {
+    "category": "Blender и 3D",
+    "title": "Анимация",
+    "description": "Анимация 5.2: slotted actions, Python-кейфреймы, F-кривые, NLA, ретаргетинг mocap/Mixamo."
+  },
+  "blender-character-rigging": {
+    "category": "Blender и 3D",
+    "title": "Риг персонажа",
+    "description": "Скелет и скины: Rigify, IK/FK, веса, контрольные слои, игровые скелеты Unity/Unreal/Roblox."
+  },
+  "blender-facial-shapekeys": {
+    "category": "Blender и 3D",
+    "title": "Лицо и shape keys",
+    "description": "Мимика: ARKit 52 blendshape, висемы для липсинка, коррективы и драйверы."
+  },
+  "blender-clothing": {
+    "category": "Blender и 3D",
+    "title": "Одежда",
+    "description": "Одежда для игр: построение по телу, толщина, перенос весов, скрытие тела и проверка на проколы."
+  },
+  "blender-hair-grooming": {
+    "category": "Blender и 3D",
+    "title": "Волосы и мех",
+    "description": "Кривые волос, гайды и children, клочки, укладка, Principled Hair и экспорт карточек волос."
+  },
+  "blender-lighting-lookdev": {
+    "category": "Blender и 3D",
+    "title": "Свет и look-dev",
+    "description": "Студийный и предметный свет, HDRI, солнце и небо, камеры, композиция и турнтейблы для презентации."
+  },
+  "blender-rendering": {
+    "category": "Blender и 3D",
+    "title": "Рендер",
+    "description": "Cycles/EEVEE/Workbench: пресеты качества, GPU, сэмплы, денойз, пассы и цветокоррекция (AgX)."
+  },
+  "blender-scene-setup": {
+    "category": "Blender и 3D",
+    "title": "Организация сцены",
+    "description": "Порядок в проекте: единицы и масштаб, коллекции, имена, origin'ы, линки и каталоги ассетов."
+  },
+  "blender-environment-kits": {
+    "category": "Blender и 3D",
+    "title": "Окружение и ландшафт",
+    "description": "Ландшафт из шума или heightmap, эрозия, террасы, biome scatter и модульные наборы для игр."
+  },
+  "blender-simulation": {
+    "category": "Blender и 3D",
+    "title": "Симуляции",
+    "description": "Твёрдые тела, ткань, новая нодовая Cloth/Hair Dynamics, жидкости Mantaflow и запекание."
+  },
+  "blender-stylized-npr": {
+    "category": "Blender и 3D",
+    "title": "Стилизация и NPR",
+    "description": "Toon/cel shading, аниме-лица, контурные обводки для игр, Line Art и Grease Pencil."
+  },
+  "blender-time-of-day": {
+    "category": "Blender и 3D",
+    "title": "Время суток и атмосфера",
+    "description": "Рассвет, день, золотой час, ночь и туман: физичное небо, экспозиция, god rays и грейдинг."
+  },
+  "blender-weather-fx": {
+    "category": "Blender и 3D",
+    "title": "Погодные эффекты",
+    "description": "Дождь, снег, пыль, пепел и молнии на Geometry Nodes, мокрые поверхности и лужи."
+  },
+  "blender-video-editing": {
+    "category": "Blender и 3D",
+    "title": "Видео в Blender",
+    "description": "Сборка в VSE из Python: клипы, переходы, титры, музыка; motion tracking и стабилизация."
+  },
+  "blender-pipeline-automation": {
+    "category": "Blender и 3D",
+    "title": "Автоматизация пайплайна",
+    "description": "Headless-пакетная обработка: конвертация, инвентаризация и запуск скриптов по папкам .blend/.fbx/.glb."
+  },
+  "blender-game-optimization": {
+    "category": "Blender и 3D",
+    "title": "Оптимизация под игры",
+    "description": "Бюджеты треугольников, материалов, текстур и костей, LOD, decimate и сокращение draw calls."
+  },
+  "blender-asset-qa": {
+    "category": "Blender и 3D",
+    "title": "QA ассетов",
+    "description": "Обязательная проверка меша перед сдачей: z-fighting, дыры, нормали, дубли, n-gons, UV и веса."
+  },
+  "blender-export-pipelines": {
+    "category": "Blender и 3D",
+    "title": "Экспорт из Blender",
+    "description": "Проверенные пресеты экспорта: Roblox, Unity, Unreal, Godot/web, USD — с проверкой после экспорта."
+  },
+  "blender-addon-development": {
+    "category": "Blender и 3D",
+    "title": "Разработка аддонов",
+    "description": "Аддоны Blender 5.2 как расширения: манифест, операторы, панели, настройки, headless-тесты."
+  },
+  "blender-workflow-recipes": {
+    "category": "Blender и 3D",
+    "title": "Готовые пайплайны Blender",
+    "description": "Сквозные сценарии: игровые пропсы и персонажи, Roblox, чистка AI-ассетов, процедурные сцены, турнтейблы."
+  },
+  "agent-experience": {
+    "category": "DSH и плагины",
+    "title": "Опыт агента",
+    "description": "Как писать описания инструментов, навыки и контекст, чтобы модель находила нужное и не тратила токены."
+  },
+  "cordis-plugin-development": {
+    "category": "DSH и плагины",
+    "title": "Разработка плагинов DSH",
+    "description": "Процедура создания плагинов и бандлов DSH: хост-часть, клиентская, установка и проверка."
+  },
+  "cordis-composition-reference": {
+    "category": "DSH и плагины",
+    "title": "Справочник композиций",
+    "description": "Диалект патчей Loader'а и список плагинов, которые можно подключать в пресеты и бандлы."
+  },
+  "editing-cordis-compositions": {
+    "category": "DSH и плагины",
+    "title": "Редактирование пресетов",
+    "description": "Как создавать и менять пресеты агентов (режимы) через бандлы и патчи профиля."
+  },
+  "diagnose-windows-sandbox-acl": {
+    "category": "DSH и плагины",
+    "title": "Диагностика Windows sandbox",
+    "description": "Разобраться с отказами доступа DSH на Windows и починить ACL папок."
+  },
+  "home-assistant": {
+    "category": "Разное",
+    "title": "Home Assistant",
+    "description": "Управление твоим Home Assistant: устройства, автоматизации, дашборды, отопление и логи."
+  }
+}

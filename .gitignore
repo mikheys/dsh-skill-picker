@@ -1,0 +1,17 @@
+# dependencies / build output
+node_modules/
+dist/
+
+# local runtime state, never commit
+*.log
+selections.json
+*.tmp
+*.bak
+*.prev
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
